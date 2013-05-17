@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\02. T4Template\bin\Debug\_02.T4Template.exe.config
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\02. T4Template\bin\Debug\_02.T4Template.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\02. T4Template\bin\Debug\_02.T4Template.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\02. T4Template\obj\Debug\_02.T4Template.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\02. T4Template\obj\Debug\_02.T4Template.pdb

@@ -1,0 +1,8 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\01. Log4Net\bin\Debug\_01.Log4Net.exe.config
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\01. Log4Net\bin\Debug\_01.Log4Net.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\01. Log4Net\bin\Debug\_01.Log4Net.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\01. Log4Net\bin\Debug\log4net.dll
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\01. Log4Net\bin\Debug\log4net.xml
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\01. Log4Net\obj\Debug\01. Log4Net.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\01. Log4Net\obj\Debug\_01.Log4Net.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\14. DevelopmentTools\01. Log4Net\obj\Debug\_01.Log4Net.pdb
